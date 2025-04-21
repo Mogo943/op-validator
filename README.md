@@ -27,4 +27,4 @@ Este bot fue utilizado como herramienta central de automatización en un entorno
 ---
 
 **Autor:** Carlos Mogollón  
-[LinkedIn](https://www.linkedin.com/in/cariosmogoiion/) | [Portafolio](https://github.com/Mogo943)
+[LinkedIn](https://www.linkedin.com/in/carlosmogollon-it/) | [Portafolio](https://github.com/Mogo943)
